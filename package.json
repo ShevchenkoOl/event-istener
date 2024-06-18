@@ -39,5 +39,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "author": "Oleksii Shevchenko <uzlabini@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/ShevchenkoOl/event-istener.git/issues"
   }
 }
