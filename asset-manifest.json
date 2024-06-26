@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/event-istener/static/css/main.ada73c47.chunk.css",
+    "main.js": "/event-istener/static/js/main.3b6339f3.chunk.js",
+    "main.js.map": "/event-istener/static/js/main.3b6339f3.chunk.js.map",
+    "runtime-main.js": "/event-istener/static/js/runtime-main.6d1fc480.js",
+    "runtime-main.js.map": "/event-istener/static/js/runtime-main.6d1fc480.js.map",
+    "static/js/2.e47b2ed1.chunk.js": "/event-istener/static/js/2.e47b2ed1.chunk.js",
+    "static/js/2.e47b2ed1.chunk.js.map": "/event-istener/static/js/2.e47b2ed1.chunk.js.map",
+    "index.html": "/event-istener/index.html",
+    "precache-manifest.0aa610470be2c6b9731a2ff99703ccf6.js": "/event-istener/precache-manifest.0aa610470be2c6b9731a2ff99703ccf6.js",
+    "service-worker.js": "/event-istener/service-worker.js",
+    "static/css/main.ada73c47.chunk.css.map": "/event-istener/static/css/main.ada73c47.chunk.css.map",
+    "static/js/2.e47b2ed1.chunk.js.LICENSE.txt": "/event-istener/static/js/2.e47b2ed1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d1fc480.js",
+    "static/js/2.e47b2ed1.chunk.js",
+    "static/css/main.ada73c47.chunk.css",
+    "static/js/main.3b6339f3.chunk.js"
+  ]
+}
