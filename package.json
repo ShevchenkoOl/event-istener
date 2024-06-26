@@ -1,7 +1,7 @@
 {
   "name": "event-istener",
   "version": "0.1.0",
-  "homepage": "https://shevchenkool.github.io/event-istener"
+  "homepage": "https://shevchenkool.github.io/event-istener",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -21,7 +21,9 @@
     "start": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
     "build": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+   "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -44,5 +46,8 @@
   "author": "Oleksii Shevchenko <uzlabini@gmail.com>",
   "bugs": {
     "url": "https://github.com/ShevchenkoOl/event-istener.git/issues"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
